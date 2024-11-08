@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## ✨ Hi there, I'm Isabelle Vitória!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=4000&color=ffffff&vCenter=true&width=435&lines=Hi+there%2C+I'm+Isabelle+Vit%C3%B3ria!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=2000&color=EBEBEB&vCenter=true&width=500&lines=Hi+there%2C+I'm+Isabelle+Vit%C3%B3ria!!)](https://git.io/typing-svg)
 
 ## Studying
 
