@@ -18,13 +18,16 @@ Here are some ideas to get you started:
 ## Studying
 
 <!-- <p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript, and PHP</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp; -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=isabellediasr&theme=github-dark-blue)](https://git.io/streak-stats)&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=isabellediasr&theme=transparent&ring=8600286A&fire=EB5600&currStreakNum=EB0046&sideNums=EB0046&sideLabels=EBEBEB&dates=EBEBEB&stroke=EB0046&currStreakLabel=EBEBEB)](https://git.io/streak-stats)&nbsp;
+---
 
-<!-- <div align="center" style="margin-bottom:100px">
+<div align="center" style="margin-bottom:100px">
 <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=isabellediasr&theme=dracula&mode=weekly" />
 <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellediasr&show_icons=true&theme=dracula&layout=compact" />
 </div>
 
-## Contacts:
+<!-- ## Contacts:
 
 <div> 
 <a href="mailto:isabellediasr1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
