@@ -13,15 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ✨ Hi there, I'm Isabelle Vitória!
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=2000&color=EBEBEB&center=true&vCenter=true&width=700&height=100&lines=Hi+there%2C+I'm+Isabelle+Vit%C3%B3ria!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=2000&color=EBEBEB&center=true&vCenter=true&width=1000&height=100&lines=Hi+there%2C+I'm+Isabelle+Vit%C3%B3ria!!)](https://git.io/typing-svg)
 
 ## Studying
 
 <!-- <p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript, and PHP</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp; -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=isabellediasr&theme=github-dark-blue)](https://git.io/streak-stats)&nbsp;
-[![GitHub Streak](https://streak-stats.demolab.com?user=isabellediasr&theme=transparent&ring=8600286A&fire=EB5600&currStreakNum=EB0046&sideNums=EB0046&sideLabels=EBEBEB&dates=EBEBEB&stroke=EB0046&currStreakLabel=EBEBEB)](https://git.io/streak-stats)&nbsp;
+[![GitHub Streak](https://streak-stats.demolab.com?user=isabellediasr&theme=transparent&background=EB545400&border=EB545400&stroke=EB0046&ring=EB00465E&fire=EB5600&currStreakNum=EBEBEB&sideNums=EBEBEB&currStreakLabel=EB0046&sideLabels=EB0046&dates=EBEBEB)](https://git.io/streak-stats)&nbsp;
+
 ---
 
 <div align="center" style="margin-bottom:100px">
