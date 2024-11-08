@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 ## ✨ Hi there, I'm Isabelle Vitória!
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3500&pause=4000&color=ffffff&vCenter=true&width=435&lines=Hi+there%2C+I'm+Isabelle+Vit%C3%B3ria!!)](https://git.io/typing-svg)
+
 ## Studying
 
 <!-- <p align="center">I ❤️ developing innovative web solutions. <br><br> As a freelance web developer, I specialize in creating websites, landing pages, e-commerce sites, blogs, and more. With a focus on <strong>HTML, CSS, JavaScript, and PHP</strong>, I am <strong>passionate about crafting user-centric experiences</strong> and leveraging technology for high-quality solutions.</p>&nbsp; -->
