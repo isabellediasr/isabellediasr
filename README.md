@@ -6,24 +6,23 @@
 <!-- Typing SVG -->
 <div align="center" display="inline-block">
     <div>
-    <img display="left" alt="foto-meme" width="350" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-    </div>
-    <div>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=2000&color=EB0046&center=true&vCenter=true&multiline=true&repeat=false&width=1000&height=60&lines=Hi%2C+I'm+Isabelle+Vit%C3%B3ria+%3C%2F%3E" alt="Typing SVG" /></a>
     </a>
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&width=1000&lines=Front-End+Web+Developer++%F0%9F%92%BB;Always+learning+new+things++%E2%9C%8D;Always+learning+new+things++%F0%9F%93%9A;Always+learning+new+things++%F0%9F%93%9D" alt="Typing SVG" />
     </a>
-    </div>
 </div>
 
 <!-- Social badges section -->
-<p align="center">
+<div align="center">
     <a href="https://www.linkedin.com/in/isabellediasr">
         <img alt="Static Badge" src="https://img.shields.io/badge/isabellediasr-236ad3?style=for-the-badge&logo=LINKEDIN&label=LINKEDIN&labelColor=1155ba&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fisabellediasr"></a>
     <a href="mailto:isabellediasr1@gmail.com">
-        <img alt="Static Badge" src="https://img.shields.io/badge/isabellediasr1%40gmail.com-e05d44?style=for-the-badge&logo=gmail&logoColor=ffffff&label=email&labelColor=ce4630"></a>
-</p>
+        <img alt="Static Badge" src="https://img.shields.io/badge/isabellediasr1%40gmail.com-e05d44?style=for-the-badge&logo=gmail&logoColor=ffffff&label=email&labelColor=ce4630">      </a>
+    </br></br>
+    <img src="https://github.com/user-attachments/assets/fb1a46f2-f646-44f3-84fc-6e1e4213b38b">
+</div>
+
 
 <!-- Snake Commit -->
 <div align="center">
