@@ -11,6 +11,7 @@
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=ffffff&center=true&vCenter=true&width=1000&lines=Front-End+Web+Developer++%F0%9F%92%BB;Always+learning+new+things++%E2%9C%8D;Always+learning+new+things++%F0%9F%93%9A;Always+learning+new+things++%F0%9F%93%9D" alt="Typing SVG" />
     </a>
+    </br></br>
 </div>
 
 <!-- Social badges section -->
@@ -19,8 +20,6 @@
         <img alt="Static Badge" src="https://img.shields.io/badge/isabellediasr-236ad3?style=for-the-badge&logo=LINKEDIN&label=LINKEDIN&labelColor=1155ba&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fisabellediasr"></a>
     <a href="mailto:isabellediasr1@gmail.com">
         <img alt="Static Badge" src="https://img.shields.io/badge/isabellediasr1%40gmail.com-e05d44?style=for-the-badge&logo=gmail&logoColor=ffffff&label=email&labelColor=ce4630">      </a>
-    </br></br>
-    <img src="https://github.com/user-attachments/assets/fb1a46f2-f646-44f3-84fc-6e1e4213b38b">
 </div>
 
 
