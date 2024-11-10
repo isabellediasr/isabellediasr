@@ -35,7 +35,7 @@
 
 <!-- My Contribuitions -->
 <div align="center" style="margin-bottom:100px">
-    <h1 align="center"> -= My Stats =- </h1>
+    <h1 align="center"> -= 🔥 My Stats 🔥 =- </h1>
     <img width=48% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=isabellediasr&theme=bear&mode=daily&hide_border=true&background=EBEBEB00&ring=EB00465E&fire=EB6A00FF&stroke=EB0046&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=EB0046&currStreakLabel=FFFFFF&card_height=250&starting_year=2024&dates=FFFFFF" />
     <img width=48% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellediasr&show_icons=true&theme=bear&layout=compact&hide_border=true&bg_color=ebebeb00&title_color=EB0046&starting_year=2024&mode=daily" />
 </div>
