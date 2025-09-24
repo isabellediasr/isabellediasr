@@ -44,7 +44,7 @@
 <h1> -= 🛠 Tech Stack 🛠 =- </h1>
 
 <p><strong>Programming and Development:</strong></p>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react,javascript,typescript&theme=dark">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,react,javascript,typescript,next&theme=dark">
 
 
 <p style="font-size: 100px;"><strong>Workstation Tools:</strong></p>
